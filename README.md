@@ -16,8 +16,8 @@ Este repositorio contiene herramientas desarrolladas en Bash para el procesamien
 * **Interfaz Dinámica**: Menú interactivo que permite al usuario seleccionar qué métricas desea extraer, ideal para demos en vivo y optimización de recursos computacionales.
 
 ### Requisitos
-* Sistema operativo Linux (o entorno Bash/Cloud Shell).
-* Archivos en formato `.vcf.gz` (si tienes `.vcf`, usa `gzip nombre.vcf` antes de correr).
+* Sistema: Cloud Shell.
+* Archivos en formato `.vcf.gz`.
 
 ### Ejecución
 1.  Dar permisos de ejecución:
